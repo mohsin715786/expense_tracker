@@ -1,0 +1,10 @@
+
+# Exclude Flutter-generated platform boilerplate
+# from GitHub's language statistics
+
+android/** linguist-generated=true
+ios/** linguist-generated=true
+linux/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+web/** linguist-generated=true
